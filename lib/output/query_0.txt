@@ -1,0 +1,23 @@
+Original Query: sentenced to prision  Corrected Query: sentenced to prison
+Soundex code: P625
+Suggested corrections: prison, precision, person, present, pregnant, parkinson, passion, pension, vision, parkin, perkin, parisian, 
+Doc: 4
+	Two key workers at a children's home were *sentenced* yesterday to a total of 23 years in *prison* for a string of sexual assaults on boys in their care.
+Former Deputy Principal Barrie Alden, 66, from Norwich, and ex-house master John Wright, 56, from Talgarth, Powys, were *sentenced* at Newport Crown Court.
+
+Doc: 51
+	An 18-year-old won the backing of a high court judge yesterday to keep her new-born baby with her in *prison*.
+The mother, remanded in custody on a robbery charge, was granted bail 'in principle' so she can prove her parenting skills at a hostel in Liverpool.
+
+Doc: 50
+	A TEENAGE woman *prisoner* was supported by a High Court judge yesterday in her battle to keep her new-born baby with her in jail.
+The 18-year-old has been refused admission to Holloway prison's mother-and-baby unit on the grounds that her 'volatile behaviour' would put the child at risk.
+
+Doc: 138
+	A FORMER double-glazing salesman received two life *sentences* yesterday for the murders of a prize-winning dog breeder and her elderly mother at their isolated farmhouse.
+Kevin Cottrell, 33, repeatedly stabbed Constance Sheridan, 79, and then knifed to death her daughter Janice, 45, whose clothing he interfered with after binding her ankles and wrists with tape.
+
+Doc: 144
+	Three men found guilty of murdering 18-year-old student Jonathan Coles, who was thrown into a river after leaving a Milton Keynes club, were facing life *sentences* last night.
+A fourth man at Luton Crown Court admitted manslaughter.
+
